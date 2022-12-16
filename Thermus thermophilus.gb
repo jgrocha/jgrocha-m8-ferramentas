@@ -1,0 +1,71 @@
+LOCUS       DQ887183                1296 bp    DNA     linear   BCT 22-DEC-2010
+DEFINITION  Thermus thermophilus isolate KNOUC202 beta-glycosidase gene,
+            complete cds.
+ACCESSION   DQ887183
+VERSION     DQ887183.1
+KEYWORDS    .
+SOURCE      Thermus thermophilus
+  ORGANISM  Thermus thermophilus
+            Bacteria; Deinococcus-Thermus; Deinococci; Thermales; Thermaceae;
+            Thermus.
+REFERENCE   1  (bases 1 to 1296)
+  AUTHORS   Nam,E.S., Kim,M.S., Lee,H.B. and Ahn,J.K.
+  TITLE     beta-Glycosidase of Thermus thermophilus KNOUC202: Gene and
+            biochemical properties of the enzyme expressed in Escherichia coli
+  JOURNAL   Appl. Biochem. Microbiol. 46 (5), 515-524 (2010)
+REFERENCE   2  (bases 1 to 1296)
+  AUTHORS   Ahn,J.K., Nam,E.S., Choi,J.W., Cha,S.K., Kang,S.K., Cho,K.K. and
+            Choi,Y.J.
+  TITLE     Beta-glycosidase gene of Thermus thermophilus KNOUC202
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1296)
+  AUTHORS   Ahn,J.K., Nam,E.S., Choi,J.W., Cha,S.K., Kang,S.K., Cho,K.K. and
+            Choi,Y.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2006) Department of Agricultural Sciences, Korea
+            National Open University, 169 Dongsung-Dong Jongno-Gu, Seoul
+            110-791, Republic of Korea
+FEATURES             Location/Qualifiers
+     source          1..1296
+                     /organism="Thermus thermophilus"
+                     /mol_type="genomic DNA"
+                     /isolate="KNOUC202"
+                     /db_xref="taxon:274"
+     CDS             1..1296
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-glycosidase"
+                     /protein_id="ABI35984.1"
+                     /translation="MTENAEKFLWGVATSAYQIEGATQEDGRGPSIWDAFARRPGAIR
+                     DGSTGEPACDHYRRYEEDIALMQSLGVRAYRFSVAWPRILPEGRGRINPKGLAFYDRL
+                     VDRLLASGITPFLTLYHWDLPLALEERGGWRSRETAFAFAEYAEAVARALADRVPFFA
+                     TLNEPWCSAFLGHWTGEHAPGLRNLEAALRAAHHLLLGHGLAVEALRAAGARRVGIVL
+                     NFAPAYGEDPEAVDVADRYHNRYFLDPILGKGYPESPFRDPPPVPILSRDLELVARPL
+                     DFLGVNYYAPVRVAPGTGTLPVRYLPPEGPATAMGWEVYPEGLHHLLKRLGREVPWPL
+                     YVTENGAAYPDLWTGEAVVEDPERVAYLEAHVEAALRAREEGVDLRGYFVWSLMDNFE
+                     WAFGYTRRFGLYYVDFPSQRRIPKRSALWYRERIARAQT"
+ORIGIN      
+        1 atgaccgaga acgccgaaaa attcctttgg ggggtggcca ccagcgccta ccagattgag
+       61 ggggccaccc aggaggacgg ccgggggcct tccatctggg acgccttcgc ccgccgcccc
+      121 ggggccatcc gggacgggag cacaggggag cccgcctgcg accactaccg ccgctacgag
+      181 gaggacatcg ccctgatgca atccctcggg gtgcgggcct accgcttctc cgtggcctgg
+      241 ccccggatcc tccccgaggg ccggggacgg atcaacccca agggcctcgc cttctacgac
+      301 cgcctggtgg accggcttct cgcttccggg atcacgccct ttctcaccct ctaccactgg
+      361 gacctgcctt tggccctgga ggagcgggga ggctggcgga gccgggagac cgccttcgcc
+      421 ttcgccgagt acgccgaggc ggtggcccgg gccctcgccg accgggtgcc cttcttcgcc
+      481 accctgaacg agccctggtg ctcggccttc ctcgggcact ggacggggga acacgccccc
+      541 ggcctcagga acctggaagc ggccctccgc gccgcccacc acctcctcct gggccacggc
+      601 ctcgccgtgg aggccttgag ggccgcgggg gcgaggcggg tggggatcgt cctcaacttc
+      661 gccccggcct acggcgagga ccccgaggcg gtggacgtgg ccgaccgcta ccacaaccgc
+      721 tacttcttgg accccatcct gggcaagggg tatcccgaaa gccccttccg agaccccccg
+      781 cccgtcccca tcctctcccg cgacctggag ctcgtggcaa ggcccctgga cttcctgggg
+      841 gtgaactact acgcccccgt ccgcgtggcc ccggggacgg ggaccttgcc cgtgcgctac
+      901 cttcccccgg aagggccggc cacggccatg gggtgggagg tctaccccga ggggcttcac
+      961 cacctcttga agcgcctcgg ccgggaggtg ccctggcccc tttacgtcac ggaaaacggg
+     1021 gccgcctacc ccgacctctg gacgggagag gccgtggtgg aggaccccga gcgggtggcc
+     1081 tacctcgagg cccacgtgga ggccgccctc cgggcccggg aagaaggggt ggacctccgg
+     1141 ggctacttcg tctggagcct catggacaac tttgagtggg ccttcggcta cacccggcgc
+     1201 ttcggcctct actacgtgga cttccccagc cagaggcgca tccccaaaag gagcgccctc
+     1261 tggtaccggg agcggatcgc gcgggcccag acctaa
+//
+
